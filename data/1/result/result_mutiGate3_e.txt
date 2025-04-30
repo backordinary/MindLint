@@ -1,0 +1,11 @@
+❌ [Errors]
+------------------------
+Type: IIS - Incorrect Initial State
+Error at line 4: Circuit().h(0).cx(1,0)
+[ERROR] 受控门 cx 被单量子比特线路调用 (行 4)
+
+⚠️ [Warnings]
+------------------------
+Type: IM - Incorrect Measurement
+Warning at line 4: Circuit().h(0).cx(1,0)
+[WARNING] 被测量的 qubit 0 被用作控制位 (cx) (行 4)

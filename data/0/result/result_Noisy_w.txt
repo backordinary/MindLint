@@ -1,0 +1,5 @@
+⚠️ [Warnings]
+------------------------
+Type: IM - Incorrect Measurement
+Warning at line 3: circ = Circuit().h(0).x(1,0).measure_all()
+[WARNING] 被测量的 qubit 0 被用作控制位 (x) (行 3)

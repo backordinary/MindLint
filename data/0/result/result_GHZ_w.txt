@@ -1,0 +1,11 @@
+⚠️ [Warnings]
+------------------------
+Type: IIS - Incorrect Initial State
+Warning at line 11: sim = Simulator('mqvector', ghz.n_qubits)
+[WARNING] n_qubits 参数非字面量整数，无法确定大小，请检查 (行 11)，值: ghz.n_qubits
+Type: IM - Incorrect Measurement
+Warning at line 8:       + X.on(1, 0) + X.on(2, 1) \
+[WARNING] 被测量的 qubit 1 被用作控制位 (.on 调用) (行 8)
+Type: IM - Incorrect Measurement
+Warning at line 8:       + X.on(1, 0) + X.on(2, 1) \
+[WARNING] 被测量的 qubit 0 被用作控制位 (.on 调用) (行 8)

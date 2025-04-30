@@ -1,0 +1,9 @@
+❌ [Errors]
+------------------------
+Type: IIS - Incorrect Initial State
+Error at line 14: qc += X.on(0,1,2)
+[ERROR] `on()` 调用了 2 号比特，超出最大支持的量子比特 2 (行 14)
+Type: PE - Parameters Error
+Error at line 14: qc += X.on(0,1,2)
+[ERROR] On的调用有多余的参数
+

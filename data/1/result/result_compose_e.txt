@@ -1,0 +1,9 @@
+❌ [Errors]
+------------------------
+Type: PE - Parameters Error
+Error at line 11: complex_circ += X.on(3, [0,1,2], [1,1,1])  # 多控制非门
+[ERROR] On的调用有多余的参数
+Type: PE - Parameters Error
+Error at line 11: complex_circ += X.on(3, [0,1,2], [1,1,1])  # 多控制非门
+[ERROR] 控制位和受控位当中有元素重复
+

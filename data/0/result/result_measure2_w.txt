@@ -1,0 +1,8 @@
+⚠️ [Warnings]
+------------------------
+Type: IM - Incorrect Measurement
+Warning at line 8: circuit.x(2, [0,1])
+[WARNING] 被测量的 qubit 0 被用作控制位 (x) (行 8)
+Type: IM - Incorrect Measurement
+Warning at line 5: circuit = Circuit().h(0).x(1, [2,0]).measure(0)
+[WARNING] 被测量的 qubit 0 被用作控制位 (x) (行 5)

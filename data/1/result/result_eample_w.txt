@@ -1,0 +1,8 @@
+⚠️ [Warnings]
+------------------------
+Type: IIS - Incorrect Initial State
+Warning at line 22: sim = Simulator('mqvector', n_qubits)
+[WARNING] n_qubits 参数非字面量整数，无法确定大小，请检查 (行 22)，值: 2
+Type: IIS - Incorrect Initial State
+Warning at line 32: noisy_sim = Simulator('mqvector', n_qubits)
+[WARNING] n_qubits 参数非字面量整数，无法确定大小，请检查 (行 32)，值: 2

@@ -1,0 +1,11 @@
+❌ [Errors]
+------------------------
+Type: IM - Incorrect Measurement
+Error at line 10: circuit += Measure('m1').on([0,1])
+[ERROR] measure 门只能定义在一个qubit上 (行 10)
+
+⚠️ [Warnings]
+------------------------
+Type: IM - Incorrect Measurement
+Warning at line 12: circuit += CNOT.on(0, 1)  # ❌ 错误！1 已被测量
+[WARNING] 被测量的 qubit 1 被用作控制位 (.on 调用) (行 12)

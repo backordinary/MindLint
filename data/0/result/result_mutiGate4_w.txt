@@ -1,0 +1,5 @@
+⚠️ [Warnings]
+------------------------
+Type: IM - Incorrect Measurement
+Warning at line 4: Circuit().h(0).cx(1,0,1)
+[WARNING] 被测量的 qubit 0 被用作控制位 (cx) (行 4)
